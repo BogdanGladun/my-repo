@@ -1,0 +1,13 @@
+﻿  Main.cpp
+c:\users\boss\documents\desktop\yniver\2 курс\4 семестр\ооп\лаба 5 ооп\laba_5_oop\MyClass.h(36): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  c:\users\boss\documents\desktop\yniver\2 курс\4 семестр\ооп\лаба 5 ооп\laba_5_oop\MyClass.h(25): note: при компиляции функции-члена "<Нет данных>" класса <Нет данных>
+  c:\users\boss\documents\desktop\yniver\2 курс\4 семестр\ооп\лаба 5 ооп\laba_5_oop\MyClass.h(196): note: см. ссылку на создание экземпляров функции шаблон при компиляции "void MyClass<MyComplex>::Set_legend(void)"
+  Main.cpp(166): note: см. ссылку на создание экземпляров класса шаблон при компиляции "MyClass<MyComplex>"
+c:\users\boss\documents\desktop\yniver\2 курс\4 семестр\ооп\лаба 5 ооп\laba_5_oop\MyClass.h(39): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  MyClass.cpp
+  MyComplex.cpp
+  Создание кода
+  All 225 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Laba_5_oop.vcxproj -> C:\Users\Boss\Documents\Desktop\Yniver\2 курс\4 семестр\ООП\Лаба 5 ооп\Laba_5_oop\Release\Laba_5_oop.exe
+  Laba_5_oop.vcxproj -> C:\Users\Boss\Documents\Desktop\Yniver\2 курс\4 семестр\ООП\Лаба 5 ооп\Laba_5_oop\Release\Laba_5_oop.pdb (Full PDB)
