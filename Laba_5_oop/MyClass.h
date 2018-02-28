@@ -426,7 +426,7 @@ public:
 				else new_mas.mas[i] = object_1.mas[i] * object_2.mas[j];
 
 			}
-
+			// What about std::complex<double> and MyComplex range check?
 			else new_mas.mas[k] = object_1.mas[i] * object_2.mas[j];
 
 
